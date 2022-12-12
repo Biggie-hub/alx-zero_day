@@ -3,3 +3,5 @@ git branch back-up
 
 git fetch origin
 git reset --hard origin/master
+-----------------------------------------
+git pull
