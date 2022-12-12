@@ -1,0 +1,5 @@
+git commit -a -m "Save work for fetching"
+git branch back-up
+
+git fetch origin
+git reset --hard origin/master
